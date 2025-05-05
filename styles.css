@@ -261,6 +261,8 @@ body {
   margin-bottom: 20px;
 }
 
-.additional-info__languages-item {
+.additional-info__languages-item,
+.additional-info__languages-item a {
   color: var(--secondary-text-color);
+  text-decoration: none;
 }
